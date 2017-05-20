@@ -8,8 +8,6 @@ import org.springframework.beans.factory.config.BeanPostProcessor;
 import org.springframework.stereotype.Component;
 import org.springframework.util.ReflectionUtils;
 
-import java.lang.reflect.Modifier;
-
 /**
  * @author François Robert
  */
