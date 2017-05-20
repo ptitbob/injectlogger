@@ -9,4 +9,5 @@ public class InjectloggerApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(InjectloggerApplication.class, args);
 	}
+
 }
